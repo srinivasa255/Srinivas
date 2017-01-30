@@ -10,4 +10,9 @@ public class NewTest extends BaseClass{
 	  System.out.println("first");
   }
   
+  @Test
+  public void f1() {
+	  
+	  System.out.println("second");
+  }
 }
