@@ -8,12 +8,12 @@ public class NewTest extends BaseClass{
   public void f() {
 	  
 	  System.out.println("first");
+	  System.out.println("after commit");
   }
   
   @Test
   public void f1() {
-	  
-	  System.out.println("second");
+	 
 	  System.out.println("updated");
   }
 }
