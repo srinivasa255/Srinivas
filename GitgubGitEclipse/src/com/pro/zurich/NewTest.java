@@ -14,5 +14,6 @@ public class NewTest extends BaseClass{
   public void f1() {
 	  
 	  System.out.println("second");
+	  System.out.println("updated");
   }
 }
