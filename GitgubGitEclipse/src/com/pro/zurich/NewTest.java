@@ -19,7 +19,7 @@ public class NewTest extends BaseClass{
 	
 	@Test
 	 public void f2() {
-	 
+	   System.out.println("jenkins configuration");
 	  System.out.println("updated second");
   }
 }
